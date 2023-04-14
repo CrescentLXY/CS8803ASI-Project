@@ -10,6 +10,6 @@ local and global feature extraction
 
 TODO:
 
-dimension reduction on global feature group (considering taking average instead of using PCA_
+dimension reduction on global feature group (considering taking average instead of using PCA
 
 feature concatenation and indexing
