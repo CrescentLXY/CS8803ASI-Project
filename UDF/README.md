@@ -5,3 +5,5 @@ motif-mining.py: Script to extract and index features (apply PCA directly on loc
 loca-feauture.py: UDF to extract only local features (testing purpose, functions to indexing and IVF generation are commented out)
 
 Place both under eva/udfs/
+
+Ongoing: re-implementing the extraction pipeline on global feature
