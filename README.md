@@ -1,5 +1,7 @@
 # CS8803ASI_Project
-Project for GaTech CS8803ASI
+***Project for GaTech CS8803ASI***
+
+***Request not pulled because the data format incompatible issue still exists in my UDF.***
 
 Code updated at final submission
 
