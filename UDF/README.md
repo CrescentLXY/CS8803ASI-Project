@@ -6,4 +6,4 @@ loca-feauture.py: UDF to extract only local features (testing purpose, functions
 
 Place both under eva/udfs/
 
-Ongoing: re-implementing the extraction pipeline on global feature
+Python-pipeline: The image similarity analysis pipeline implemented in Python. Randomly select a query, find and show the two most similar images.
