@@ -1,15 +1,5 @@
-# Ongoing Python Scripts about Motif Mining pipeline
+# Python Scripts about Motif Mining pipeline
 
-Developing feature extraction and indexing step by step
+Perform feature extraction, indexing and similarity search
 
-Finished:
-
-local and global feature extraction
-
-
-
-TODO:
-
-dimension reduction on global feature group (considering taking average instead of using PCA)
-
-feature concatenation and indexing
+Final version: final_submission.py
