@@ -8,7 +8,7 @@ The current pipeline can be directly realized with built-in EVA functions:
 
 Place under eva/udfs/
 
-Python-pipeline: The image similarity analysis pipeline implemented in Python. Randomly select a query, find and show the two most similar images.
+**Python-pipeline**: The image similarity analysis pipeline implemented in Python. Randomly select a query, find and show the two most similar images.
 
 Previous trials:
 
