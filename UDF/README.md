@@ -1,5 +1,7 @@
 # UDF
 
+The current pipeline can be directly realized with built-in EVA functions:
+
 xli3068.py: a self-written UDF to extract the features and perform transformation to fit in INDEX function. Mostly based on the original FeatureExtractor UDF in EVA.
 
 Place under eva/udfs/
